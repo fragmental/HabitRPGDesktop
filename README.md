@@ -1,4 +1,4 @@
-habit3d
+HabitRPGDesktop
 =======
 
 A HabitRPG client built using the Unity Game Engine
